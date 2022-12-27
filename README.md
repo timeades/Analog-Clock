@@ -4,5 +4,5 @@ A simmple analog clock built with HTML, css & javascript.
 
 # TODO:
 
-Add a weather widget based on the user location &/or selection
-Add a day/date/month widget
+1. Add a weather widget based on the user location &/or selection
+2. Add a day/date/month widget
